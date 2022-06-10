@@ -24,7 +24,6 @@ In order to succeed in doing this project I had to master the following:
 Pipex is a important step in the journey to become a great software engineer. The biggest challenge that I had during this project was to learn how child processes work and how to redirect inputs and outputs. If you don't manage pipes and file descriptors correctly the result is always weird and difficult do debug. 
 What I loved about pipex is that I could learn how to automatize the execution of a program inside my code, this was like an inception for me.
 
-
 ### Workflow
 
 
@@ -32,12 +31,12 @@ What I loved about pipex is that I could learn how to automatize the execution o
 
 ```
 1 - make or make bonus
-2 -  Example => ./pipex file1 cmd1 cmd2 cmd3 ... cmdn file2
-This should behave like:
+2 - Example => ./pipex file1 cmd1 cmd2 cmd3 ... cmdn file2
+It should behave like:
 < file1 cmd1 | cmd2 | cmd3 ... | cmdn > file2
 
 You can also run with here_doc
 Example =>  ./pipex here_doc LIMITER cmd1 cmd2 ... cmdn file
-This should behave like:
+IT should behave like:
 cmd << LIMITER | cmd1 >> file
 ```
