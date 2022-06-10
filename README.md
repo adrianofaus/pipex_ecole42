@@ -7,7 +7,7 @@
 * [The Project](#the-project)
 
 ## Introduction
-This projects made me understand a bit deeper two concepts that I already knew: the redirections and the pipes. This was an introductory project.
+This project made me understand a bit deeper two concepts that I already knew: the redirections and the pipes. This was an introductory project.
 
 ## Skills that I have improved
 - Imperative programming
