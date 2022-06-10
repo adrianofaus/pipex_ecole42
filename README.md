@@ -7,12 +7,14 @@
 * [The Project](#the-project)
 
 ## Introduction
+This projects made me understand a bit deeper two concepts that I already knew: the redirections and the pipes. This was an introduction project.
 
 ## Skills that I have improved
-- Rigor
-- Algorithms & AI
+- Imperative programming
+- Unix logic
 
 ## The Project
+
 
 ### What I Have learned during this project?
 
