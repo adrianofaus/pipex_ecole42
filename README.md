@@ -40,3 +40,4 @@ You can also run with here_doc
 Example =>  ./pipex here_doc LIMITER cmd1 cmd2 ... cmdn file
 This should behave like:
 cmd << LIMITER | cmd1 >> file
+```
